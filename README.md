@@ -1,4 +1,5 @@
 [<img src="https://github.com/arun-kmr-singh/arun-kmr-singh.github.io/blob/master/assets/Coolstuff/animation.gif" width="55%" height="auto">](https://arun-kmr-singh.github.io/)
+
 :octocat:
 # Hello, folks! <img src="https://github.com/arun-kmr-singh/arun-kmr-singh.github.io/blob/master/assets/Coolstuff/wave.gif" width="30px">
 
