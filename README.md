@@ -5,6 +5,6 @@ My name is Arun Kumar Singh and I'm an M.tech CSE Grad at Indian Institute of Te
 
 When it comes to coding, I love to work on problem-solving questions and take part in various coding challenges. Apart from that in my free time, I play few sports: Badminton, Football and Swimming, but really enjoy participating in Adventure Sports. I love binge-watching TV series and chilling on my weekend nights and holidays.
 
-Apart from Programming, Research and Development Stuff, I also sometimes write blogs <img src="https://github.com/arun-kmr-singh/arun-kmr-singh.github.io/blob/master/assets/Coolstuff/wink.gif" width="10px"> - you can find my articles on [**Medium** ](https://medium.com/@singh.kmr.arun).
+Apart from Programming, Research and Development Stuff, I also sometimes write blogs <img src="https://github.com/arun-kmr-singh/arun-kmr-singh.github.io/blob/master/assets/Coolstuff/wink.gif" width="40px"> - you can find my articles on [**Medium** ](https://medium.com/@singh.kmr.arun).
 
 <h1 align='center'><i>Stay awesome!</i></h1>
